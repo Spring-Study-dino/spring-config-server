@@ -1,5 +1,5 @@
 spring:
-  application:
-    name: foo
-  profiles:
-    active: dev,mysql
+  datasource:
+    uri: ssafy
+    username: root
+    password: ssafy
